@@ -1,0 +1,366 @@
+0|UUİ
+1|yaklaşık 0 sn
+2|Ay
+3|yaklaşık 1,3 sn
+4|Mars geçişi
+5|4–24 dk
+6|Nabız
+7|atım/dk
+8|Kan basıncı (sistolik)
+9|mmHg
+10|Vücut ısısı
+11|Uyku
+12|sa
+13|Ruh hali
+14|Yorgunluk
+15|Stres (kendi değerlendirmeniz)
+16|Normal
+17|Planlı izlemeye devam edin.
+18|Dikkat
+19|Ölçümleri tekrarlayın, uykunuzu ve iş yükünüzü kontrol edin, planlı muayeneyi tamamlayın.
+20|Eylem
+21|Kendi kendine kontrol protokolünü uygulayın ve tıbbi ekip için bir rapor hazırlayın.
+22|Henüz yeterli veri yok: kişisel referans değeri ilk 7 günden oluşturulur.
+23|Kişisel referans değerinden anlamlı bir sapma yok. Planlı izlemeye devam edin.
+24|referansa göre
+25|Birkaç değer aynı anda referanstan uzaklaştı: {0}. Bu birleşik bir tablodur ve değişimler birbiriyle ilişkili olabilir. Korelasyon bir nedeni kanıtlamaz ve bu bir teşhis değildir.
+26|Sapma: {0}. Tek başına bir hastalığı doğrulamaz, ancak dikkat gerektirir.
+27|Dünya ile bağlantı yok: rapor yerel olarak saklanır ve kanal açıldığında gönderilir.
+28|İletişim gecikmesi: {0}. İlk müdahaleleri ertelemeyin; bordo protokolünü izleyin.
+29|Kendinizi daha kötü hissederseniz (göğüs ağrısı, nefes darlığı, kafa karışıklığı) hemen komutanla veya mürettebat hekimiyle iletişime geçin.
+30|Grafik
+31|gün
+32|kişisel referans burada biter
+33|referans
+34|Bordo sistemi · giriş
+35|Bir mürettebat<br>profili seçin
+36|Parolasız demo girişi. Astronot kendi panelini görür; komutan tüm mürettebatı görür. Tüm veriler sentetiktir.
+37|Astronot
+38|Erişim düzeyi · Komuta
+39|Komutan paneli
+40|Tüm mürettebat, görevler ve mürettebat YZ’si
+41|dikkat gerektiriyor
+42|Aç
+43|Mürettebat: {0}, gün {1}
+44|Dikkat gerektiren: {1} kişiden {0}.
+45|Durum
+46|Beden endeksi
+47|Zihin endeksi
+48|Endeksler 0 ile 100 arasındadır: ne kadar yüksekse kişisel referansa o kadar yakındır.
+49|mSv
+50|Simüle edilmiş verilere dayanır; tıbbi teşhis değildir.
+51|Eğilimler
+52|Şerit kişisel referansı gösterir (ilk 7 günün ortalaması ± sapma).
+53|Radyasyon maruziyeti
+54|{1} günde yaklaşık <b>{0} {2}</b> birikti (günde yaklaşık {3} {2}). 180 günlük tahmin: yaklaşık {4} {2}.
+55|Referans: NASA’nın kariyer boyu maruziyet sınırı 600 mSv mertebesindedir (NASA-STD-3001); özgün kaynaktan doğrulayın.
+56|Ölçümleri girin, gün {0}
+57|Ölçüm ekle
+58|Ölçüm geçmişi
+59|Gün
+60|Kişisel referansla karşılaştırma
+61|Değerler son 3 günün ortalamasıdır. Çubuk ne kadar uzunsa olumsuz sapma o kadar güçlüdür.
+62|Korelasyonlar
+63|Aynı anda kayanlar: {0}. Sistem ayrı alarmlar yerine tek bir bütünsel tablo gösterir.
+64|Şu anda belirgin bir sapma birleşimi yok.
+65|Tüm günler boyunca uyku ve yorgunluk: r = {0}.
+66|Korelasyon bir nedeni kanıtlamaz.
+67|Uyarı: {0}
+68|Psikolojik durum
+69|(3 gün önce: {0})
+70|Endeks, uyku, ruh hali, yorgunluk ve stresi kişisel referansa göre birleştirir.
+71|Değerler
+72|Ne yapmalı
+73|Düzenli bir uyku rutinini koruyun, mürettebat ve ailenizle iletişimde kalın.
+74|Dinlenmeyi, yer ekibinin psikoloğuyla bir görüşmeyi ve daha hafif bir iş yükünü planlayın. 2–3 günde düzelme olmazsa komutana haber verin.
+75|Ayrıntılı YZ analizi
+76|Kural motoru durumları belirler; YZ tüm mürettebatın resmini çıkarır ve komutan için öncelikler önerir.
+77|Kural motoru durumu belirler; YZ bütün resmi açıklar: beden, zihin ve aralarındaki ilişki. Bu bir teşhis değildir.
+78|YZ analiz ediyor…
+79|YZ analizi iste
+80|Sentetik verilerden YZ tarafından üretildi; teşhis değildir.
+81|YZ, sayfa Claude içinde açıldığında kullanılabilir. Yukarıdaki durum ve açıklamalar yerleşik kural motorundan gelir.
+82|YZ yanıt vermedi. Lütfen daha sonra tekrar deneyin.
+83|Kardiyovasküler
+84|Solunum
+85|Uyku ve zihin
+86|Isı düzenlemesi
+87|Vücut sistemleri
+88|Sistem göstergeli vücut şeması
+89|Sistemini görmek için bir organa dokunun.
+90|Döndürmek için sürükleyin. Kalp son nabız hızında atar. Organlar trafik ışığı gibi çalışır: yeşil normal, sarı dikkat, kırmızı eylem. Karaciğer, mide ve böbrekler genel durumu gösterir.
+91|mSv/gün
+92|Görev telemetrisi
+93|Hedef yerçekimi
+94|Sinyal gecikmesi
+95|tek yön
+96|Radyasyon
+97|model tahmini
+98|Dünya’ya uzaklık
+99|Bir görev seçin: radyasyon, iletişim ve değerlerin kayması değişir. Görev değiştirmek tüm mürettebat için yeni bir 14 günlük veri seti oluşturur.
+100|Mürettebatın durumu
+101|Stabil
+102|Kötüleşme
+103|Sonraki günü simüle et
+104|Yeni rastgele değerler
+105|Bağlantıyı geri yükle
+106|Bağlantı kaybını simüle et
+107|Demo ipucu: Mars’ı seçin, birini «Kötüleşme» yapın, ardından «Mürettebat» sekmesinden panelini açın.
+108|ASTRA HEALTH, tıbbi ekip için rapor
+109|Astronot: {0}. Görev: {1}, gün {2}
+110|Bağlantı: yok, özerk mod, rapor iletim kuyruğunda
+111|Bağlantı: gecikme {0}
+112|Genel durum: {0}
+113|Beden endeksi: {0}/100. Zihin endeksi: {1}/100
+114|Bilişsel testler: {0}
+115|Kişisel referanstan sapmalar:
+116|- anlamlı yok
+117|Açıklama: {0}
+118|Öneriler: {0}
+119|Biriken doz: yaklaşık {0} {1}
+120|Veriler sentetiktir; bu değerlendirme bir teşhis değildir.
+121|Tıbbi ekip için rapor
+122|Raporu kopyala
+123|Metin seçildi. Otomatik kopyalanmadıysa Ctrl+C’ye basın.
+124|«{0}» alanını kontrol edin: izin verilen aralık {1} ile {2} arasıdır.
+125|Panel: {0}
+126|Görev dozu
+127|Referans dışı
+128|/
+129|İstatistikler, {0} gün
+130|Değer
+131|Şimdi
+132|Referans
+133|Min
+134|Ort
+135|Maks
+136|Mürettebat
+137|Eğilim
+138|Değerini görmek için grafik noktasının üzerine gelin. «Mürettebat», son günün mürettebat ortalamasıdır.
+139|Mürettebat dinamiği
+140|Değerini görmek için noktanın üzerine gelin. Birimler: {0}.
+141|yörüngede mikro yerçekimi
+142|sn
+143|km
+144|yörünge yüksekliği
+145|Ay yüzeyi
+146|ortalama uzaklık
+147|Mars yüzeyi, geçişte ≈ 0 g
+148|dk
+149|milyon km
+150|gezegenlerin konumuna bağlı
+151|Uçuş mühendisi
+152|Pilot
+153|Görev uzmanı
+154|Mürettebat hekimi
+155|Görev
+156|Gecikme
+157|Yerçekimi
+158|Doz
+159|mSv/gün
+160|Tüm değerler sentetiktir ve tıbbi değerlendirme değildir. Durumlar, değerleri kişisel referansla (ilk 7 gün) karşılaştıran ve sapma birleşimlerini arayan şeffaf bir kural motorundan gelir. YZ yalnızca sonucu açıklar, hiçbir teşhis koymaz.
+161|Bu bir demodur: girişte parola yoktur ve veriler tarayıcıda kalır. Gerçek hesaplar için kimlik doğrulaması ve tıbbi veri koruması olan bir sunucu gerekir.
+162|Bilimsel dayanak: NASA Human Research Roadmap, HRP Evidence Reports, NASA-STD-3001 Cilt 1, NASA Human Spaceflight Risks. Eşikler ve doz hızları yaklaşıktır; özgün kaynaklarla karşılaştırın.
+163|Sentetik veriler
+164|Tıbbi değerlendirme değildir
+165|NASA-STD-3001 standartları
+166|Nasıl çalışır
+167|Kapat
+168|Mürettebat sağlığı izleme
+169|Özerk mod
+170|Sistem çevrimiçi
+171|Mürettebat komutanı
+172|Astronot · {0}
+173|Çıkış yap
+174|Arayüz çevriliyor…
+175|Çeviri kullanılamıyor, bu yüzden İngilizce gösteriliyor. Sayfayı Claude içinde açın.
+176|60 saniyede özet
+177|Tam inceleme
+178|3 günde ne değişti
+179|Bugünün önceliği
+180|48 saatlik plan
+181|Basit sözlerle açıkla
+182|Zihin durumu
+183|Stres ve aşırı yüklenme
+184|Ruh hali ve izolasyon
+185|Psikologla görüşme hazırlığı
+186|Sakinleştirici uygulamalar
+187|Motivasyon ve hedefler
+188|Uyku incelemesi
+189|3 günlük uyku rutini
+190|Uyku ve yorgunluk
+191|Işık ve ritim
+192|Kalp ve kan basıncı
+193|Solunum ve SpO₂
+194|Egzersiz ve toparlanma
+195|Beslenme ve sıvı alımı
+196|Test sonuçları
+197|Dikkat ve bellek
+198|Testler ve kendi değerlendirme
+199|Dikkat eğitimi
+200|Radyasyon ve iletişim gecikmesi
+201|Ne zaman yardım istenmeli
+202|Uçuş hekimi için rapor
+203|Komutana mesaj
+204|İyi oluş günlüğü
+205|Doktora sorular
+206|Mürettebat brifingi
+207|Kim önce
+208|Grup dinamiği
+209|İş yükünün yeniden dengelenmesi
+210|Mürettebat kaynaşması
+211|Bire bir görüşme hazırlığı
+212|Mürettebat test sonuçları
+213|Görev risk listesi
+214|Mürettebata mesaj
+215|Yer kontrolü için rapor
+216|Hazır istemler ({0})
+217|Her tarayıcıda çalışır. Bir istem seçin, güncel verilerle dolar. İstediğiniz YZ sohbetine kopyalayın veya tek tıkla Claude, ChatGPT ya da Gemini’yi açın (istem otomatik kopyalanır).
+218|İstemi kopyala
+219|Burada sor
+220|İstem kopyalandı. Bir YZ sohbetine yapıştırın.
+221|Metin seçildi: Ctrl+C’ye basın.
+222|YZ burada yalnızca Claude içinde kullanılabilir. İstemi kopyalayıp istediğiniz YZ sohbetine yapıştırın.
+223|ms
+224|Sinyal çatışması
+225|Yörünge Stroop testi
+226|bilişsel esneklik · stres toleransı
+227|Çevresel radar
+228|Önleme ve dürtü kontrolü
+229|MSS yorgunluğu · uyanıklık · inhibisyon
+230|Yaşam destek devresi
+231|Enerji hattının onarımı
+232|çalışma belleği · uzamsal akıl yürütme
+233|Mürettebat psikofizyolojik simülatörü
+234|NASA’nın WinSCAT bataryası ruhunda üç kısa test. Sonuçlar tıbbi kayda yazılabilir: kişisel referans ilk üç kaydın ortalamasıdır, ardından sistem her kaymayı izler. Testler klinik değerlendirmenin yerini tutmaz.
+235|kayıt yok
+236|Tıbbi kayıt: test analizi
+237|Bir renkte bir ok ve bir sözcük görünür. Geçerli KURALA göre «sol» veya «sağ» yanıtını verin: ok, sözcük veya renk (mavi sol, kehribar sağ demektir). Kural her 10 saniyede değişir. Son 15 saniyede iletişimde parazit olur. Tuşlar ← → veya A / D.
+238|Mikrometeoritler (turuncu eşkenar dörtgenler) ortadaki istasyona doğru uçar: durdurmak için dokunun. Kendi uydularınıza (mavi) asla dokunmayın. Tempo düzensizdir, uykulu bir durgunluktan fırtınaya kadar.
+239|Izgaradaki enerji hattını aklınızda tutun. Sonra ızgara 90° döner: hücrelere girişten (sarı halka) başlayarak sırayla dokunup hattı yeniden kurun. Üç devre: 4×4, 5×5 ve 6×6, her biri 25 saniye.
+240|Test
+241|Süre
+242|Ölçer
+243|Başla
+244|Geri
+245|ok
+246|sözcük
+247|renk
+248|SOL
+249|SAĞ
+250|Sinyal çatışması
+251|mavi = sol
+252|kehribar = sağ
+253|Kural
+254|iletişim paraziti
+255|Doğruluk
+256|Medyan tepki süresi
+257|Girişim maliyeti
+258|Geçiş maliyeti
+259|Parazitte doğruluk
+260|Kaçırılanlar
+261|durgunluk
+262|dengeli
+263|fırtına
+264|Çevresel radar
+265|meteorit: önle
+266|kendi uydunuz: dokunmayın
+267|tempo
+268|Önlenenler
+269|Tepki değişkenliği
+270|Yanlış dokunuşlar
+271|Dürtü kontrolü
+272|Uyanıklık kayıpları
+273|Devre {0} / 3 · {1}×{1}
+274|Hattı aklınızda tutun
+275|Izgara saat yönünde 90° dönüyor
+276|Izgara saat yönünün tersine 90° dönüyor
+277|Hattı girişten başlayarak yeniden kurun
+278|Süre doldu
+279|Devre onarıldı
+280|Üç hata: devre onarılamadı
+281|Doğru hücreler
+282|Onarılan devreler
+283|Hatalar
+284|Hücre başına süre
+285|Grafik için yanıt yok.
+286|Tepki süresi grafiği
+287|hata
+288|medyan
+289|Noktalar yanıtlardır (kırmızı: hatalar, ×: kaçırılanlar). Dikey kesikli çizgiler: kural değişimi veya fırtınanın başlangıcı. Gölge: parazit veya durgunluk evresi.
+290|Bilişsel esneklik: %{0} doğruluk, medyan tepki {1} ms, {2} kaçırılan.
+291|Doğruluk şansa yakın: kural muhtemelen tutulmadı veya yanıtlar tahmindi. Bu turdaki girişim ve geçiş değerleri güvenilir değil.
+292|Ok-sözcük-renk çatışması yanıt başına {0} ms ekler: girişim {1}.
+293|düşük
+294|orta
+295|yüksek
+296|Kural değişiminden sonra ilk yanıtlar {0} ms daha yavaş: geçiş maliyeti {1}.
+297|İletişim parazitinde doğruluk %{0}’dan %{1}’e düşüyor: yük altında stres toleransı azalmış.
+298|İletişim parazitinde doğruluk %{1}, parazitsiz %{0}: tolerans korunuyor.
+299|Mikrometeoritlerin %{0}’ü önlendi, medyan tepki {1} ms, değişkenlik ±{2} ms.
+300|Dürtü kontrolü sağlam: kendi uydularına dokunuş yok.
+301|Kendi uydularına yanlış dokunuş: {0} (%{1} kendini tutma). {2}
+302|Bu, zayıflamış bir inhibisyona işaret ediyor.
+303|Tek tük hatalar kabul edilebilir.
+304|Durgunluk evrelerinde uyanıklık kayıpları: {0}.
+305|Yüksek tepki değişkenliğiyle birlikte bu, MSS yorgunluğuna benziyor.
+306|Monoton yük altında dikkat düşüyor.
+307|Monoton evrelerde uyanıklık korunuyor.
+308|Fırtına evresinde %{0} önlendi.
+309|Çalışma belleği: hücrelerin %{0}’ü doğru kuruldu, 3 devreden {1}’i onarıldı.
+310|90° dönüşten sonra: {0} hata, hücre başına ortalama {1} ms.
+311|Uzamsal dönüşüm güvenle yapılıyor.
+312|Uzamsal dönüşüm çaba gerektiriyor.
+313|Uzamsal dönüşüm belirgin şekilde bozulmuş.
+314|Kişisel referansa ({0}) göre güncel puan {1}.
+315|daha düşük değil
+316|%{0} daha düşük
+317|Kişisel referans henüz oluşuyor: üç kayıt gerekli.
+318|Bilişsel aşırı yüklenme belirtisi yok. Planlı testlere devam edin.
+319|Orta düzeyde bir düşüş var. Dinlendikten sonra testi tekrarlayın, uykuyu ve iş yükünü kontrol edin.
+320|Belirgin bir düşüş. Mürettebat hekimine haber verin ve önümüzdeki saatlerde iş yükünü azaltın.
+321|Yaklaşık referans noktalarıyla tek bir tura dayanır; teşhis değildir.
+322|YZ yanıt vermedi: yerleşik ASTRA motorunun sonucu gösteriliyor.
+323|tamamlandı
+324|referans {0}, kayma %{1}
+325|referans oluşuyor: 3 kayıttan {0}’ü
+326|Tepki süresi, ms
+327|Tıbbi-psikolojik sonuç
+328|YZ ayrıntılı bir sonuç hazırlıyor…
+329|Yerleşik ASTRA motoru tarafından üretildi. YZ sonucu, sayfa Claude içinde açıldığında kullanılabilir.
+330|Tıbbi kayda yaz: {0}
+331|Tekrar çalıştır
+332|Testlere dön
+333|Profile kaydedildi
+334|Kişisel referanstan bir sapma var. Testleri yarın tekrarlayın, uykuyu ve iş yükünü kontrol edin.
+335|Birkaç testte sapma var. Ek değerlendirme önerilir: mürettebat hekimiyle iletişime geçin.
+336|Tıbbi kayıt · bilişsel testler
+337|Bileşik endeks {0}/100, kayıtlı testler: 3 üzerinden {1}.
+338|Henüz kayıt yok. Bir test yapın ve sonucu tıbbi kayda yazın.
+339|Kayıtlar
+340|Son
+341|Kayma
+342|En iyi
+343|Referans, bir testin ilk üç kaydının ortalamasıdır. Son kayıt onunla karşılaştırılır: −%10’dan «Dikkat», −%25’ten «Eylem».
+344|Testler
+345|Endeks
+346|Veri (JSON)
+347|Verileri kopyala
+348|Verileri temizle
+349|Veriler seçildi. Kopyalanmadıysa Ctrl+C’ye basın.
+350|Kayıtları silmek için tekrar basın
+354|Mürettebat YZ’si
+355|Genel bakış
+356|İstatistikler
+357|Giriş
+358|Analiz
+359|Zihin
+360|YZ
+361|Beden
+362|Rapor
+363|Raporlar
+364|Tümü
+365|Küçült
+366|Büyüt
+367|Açık tema
+368|Koyu tema

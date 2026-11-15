@@ -1,0 +1,366 @@
+0|ISS
+1|cerca de 0 s
+2|Lua
+3|cerca de 1,3 s
+4|Trânsito para Marte
+5|4–24 min
+6|Pulso
+7|bpm
+8|Pressão arterial (sistólica)
+9|mmHg
+10|Temperatura
+11|Sono
+12|h
+13|Humor
+14|Fadiga
+15|Estresse (autoavaliado)
+16|Normal
+17|Continue o monitoramento programado.
+18|Atenção
+19|Repita as medições, verifique seu sono e sua carga de trabalho e faça o exame programado.
+20|Ação
+21|Siga o protocolo de autoavaliação e prepare um relatório para a equipe médica.
+22|Ainda há poucos dados: a linha de base pessoal é construída com os primeiros 7 dias.
+23|Nenhum desvio significativo em relação à linha de base pessoal. Continue o monitoramento programado.
+24|vs. linha de base
+25|Várias leituras se afastaram da linha de base ao mesmo tempo: {0}. É um quadro conjunto e as mudanças podem estar relacionadas. Correlação não prova causa, e isto não é um diagnóstico.
+26|Desvio: {0}. Sozinho, ele não confirma uma doença, mas exige atenção.
+27|Sem ligação com a Terra: o relatório é guardado localmente e será enviado quando houver um canal disponível.
+28|Atraso de comunicação: {0}. Não adie as primeiras ações; siga o protocolo de bordo.
+29|Se você piorar (dor no peito, falta de ar, confusão), contate imediatamente o comandante ou o médico da tripulação.
+30|Gráfico
+31|dia
+32|a linha de base pessoal termina aqui
+33|linha de base
+34|Sistema de bordo · entrar
+35|Escolha o perfil de<br>um membro da tripulação
+36|Entrada de demonstração sem senha. O astronauta vê o próprio painel; o comandante vê toda a tripulação. Todos os dados são sintéticos.
+37|Astronauta
+38|Nível de acesso · Comando
+39|Painel do comandante
+40|Toda a tripulação, missões e IA da tripulação
+41|precisam de atenção
+42|Abrir
+43|Tripulação: {0}, dia {1}
+44|Precisam de atenção: {0} de {1}.
+45|Status
+46|Índice corporal
+47|Índice mental
+48|Os índices vão de 0 a 100: quanto mais alto, mais perto da linha de base pessoal.
+49|mSv
+50|Baseado em dados simulados; não é um diagnóstico médico.
+51|Tendências
+52|A faixa mostra a linha de base pessoal (média ± desvio dos primeiros 7 dias).
+53|Exposição à radiação
+54|Cerca de <b>{0} {2}</b> acumulados em {1} dias (cerca de {3} {2}/dia). Projeção para 180 dias: cerca de {4} {2}.
+55|Referência: o limite de exposição de carreira da NASA é da ordem de 600 mSv (NASA-STD-3001); confira na fonte original.
+56|Inserir medições, dia {0}
+57|Adicionar medição
+58|Histórico de medições
+59|Dia
+60|Comparação com a linha de base pessoal
+61|As leituras são a média dos últimos 3 dias. Quanto mais longa a barra, maior o desvio desfavorável.
+62|Correlações
+63|Alterados ao mesmo tempo: {0}. O sistema mostra um quadro conjunto em vez de alarmes isolados.
+64|No momento não há combinações marcantes de desvios.
+65|Sono e fadiga em todos os dias: r = {0}.
+66|Correlação não prova causa.
+67|Alerta: {0}
+68|Estado psicológico
+69|(há 3 dias: {0})
+70|O índice combina sono, humor, fadiga e estresse em relação à linha de base pessoal.
+71|Leituras
+72|O que fazer
+73|Mantenha uma rotina de sono estável e continue em contato com a tripulação e a família.
+74|Planeje descanso, uma conversa com o psicólogo da equipe em solo e uma carga de trabalho menor. Se não houver melhora em 2–3 dias, avise o comandante.
+75|Análise detalhada da IA
+76|O motor de regras define os status; a IA monta um quadro de toda a tripulação e sugere prioridades ao comandante.
+77|O motor de regras define o status; a IA explica o quadro completo: corpo, mente e como se relacionam. Isto não é um diagnóstico.
+78|A IA está analisando…
+79|Solicitar análise da IA
+80|Gerado pela IA a partir de dados sintéticos; não é um diagnóstico.
+81|A IA está disponível quando a página é aberta no Claude. O status e as explicações acima vêm do motor de regras integrado.
+82|A IA não respondeu. Tente novamente mais tarde.
+83|Cardiovascular
+84|Respiratório
+85|Sono e mente
+86|Termorregulação
+87|Sistemas do corpo
+88|Esquema do corpo com indicadores por sistema
+89|Toque em um órgão para ver o sistema dele.
+90|Arraste para girar. O coração bate no ritmo do último pulso. Os órgãos funcionam como um semáforo: verde é normal, amarelo é atenção, vermelho é ação. Fígado, estômago e rins mostram o status geral.
+91|mSv/dia
+92|Telemetria da missão
+93|Gravidade do destino
+94|Atraso do sinal
+95|em um sentido
+96|Radiação
+97|estimativa do modelo
+98|Distância até a Terra
+99|Escolha uma missão: mudam a radiação, a comunicação e a deriva das leituras. Trocar de missão cria um novo conjunto de 14 dias para toda a tripulação.
+100|Condição da tripulação
+101|Estável
+102|Piora
+103|Simular o próximo dia
+104|Novos valores aleatórios
+105|Restabelecer ligação
+106|Simular perda de ligação
+107|Dica de demonstração: escolha Marte, coloque alguém em «Piora» e abra o painel dessa pessoa na aba «Tripulação».
+108|ASTRA HEALTH, relatório para a equipe médica
+109|Astronauta: {0}. Missão: {1}, dia {2}
+110|Ligação: nenhuma, modo autônomo, relatório na fila para transmissão
+111|Ligação: atraso {0}
+112|Status geral: {0}
+113|Índice corporal: {0}/100. Índice mental: {1}/100
+114|Testes cognitivos: {0}
+115|Desvios em relação à linha de base pessoal:
+116|- nenhum significativo
+117|Explicação: {0}
+118|Recomendações: {0}
+119|Dose acumulada: cerca de {0} {1}
+120|Os dados são sintéticos; esta avaliação não é um diagnóstico.
+121|Relatório para a equipe médica
+122|Copiar relatório
+123|Texto selecionado. Se não foi copiado automaticamente, pressione Ctrl+C.
+124|Verifique «{0}»: o intervalo permitido é de {1} a {2}.
+125|Painel: {0}
+126|Dose da missão
+127|Fora da linha de base
+128|de
+129|Estatísticas, {0} dias
+130|Leitura
+131|Agora
+132|Linha de base
+133|Mín
+134|Méd
+135|Máx
+136|Tripulação
+137|Tendência
+138|Passe o cursor sobre um ponto do gráfico para ver o valor. «Tripulação» é a média da tripulação no último dia.
+139|Dinâmica da tripulação
+140|Passe o cursor sobre um ponto para ver o valor. Unidades: {0}.
+141|microgravidade em órbita
+142|s
+143|km
+144|altitude orbital
+145|superfície lunar
+146|distância média
+147|superfície de Marte, ≈ 0 g em trânsito
+148|min
+149|M km
+150|depende das posições dos planetas
+151|Engenheiro de voo
+152|Piloto
+153|Especialista de missão
+154|Médico da tripulação
+155|Missão
+156|Atraso
+157|Gravidade
+158|Dose
+159|mSv/d
+160|Todos os valores são sintéticos e não constituem avaliação médica. Os status vêm de um motor de regras transparente que compara as leituras com a linha de base pessoal (os primeiros 7 dias) e procura combinações de desvios. A IA apenas explica o resultado e não diagnostica nada.
+161|Isto é uma demonstração: a entrada não tem senha e os dados ficam no navegador. Contas reais exigem um servidor com verificação de identidade e proteção de dados médicos.
+162|Base científica: NASA Human Research Roadmap, HRP Evidence Reports, NASA-STD-3001 vol. 1, NASA Human Spaceflight Risks. Limites e taxas de dose são aproximados; confira nas fontes originais.
+163|Dados sintéticos
+164|Não é avaliação médica
+165|Normas NASA-STD-3001
+166|Como funciona
+167|Fechar
+168|Monitoramento da saúde da tripulação
+169|Modo autônomo
+170|Sistema online
+171|Comandante da tripulação
+172|Astronauta · {0}
+173|Sair
+174|Traduzindo a interface…
+175|A tradução não está disponível, por isso o inglês é exibido. Abra a página no Claude.
+176|Resumo em 60 segundos
+177|Análise completa
+178|O que mudou em 3 dias
+179|Prioridade de hoje
+180|Plano de 48 horas
+181|Explicar em palavras simples
+182|Estado mental
+183|Estresse e sobrecarga
+184|Humor e isolamento
+185|Preparar a conversa com o psicólogo
+186|Práticas de calma
+187|Motivação e metas
+188|Revisão do sono
+189|Rotina de sono de 3 dias
+190|Sono e fadiga
+191|Luz e ritmo
+192|Coração e pressão arterial
+193|Respiração e SpO₂
+194|Exercício e recuperação
+195|Nutrição e hidratação
+196|Resultados dos testes
+197|Atenção e memória
+198|Testes versus autoavaliação
+199|Treino de atenção
+200|Radiação e atraso de comunicação
+201|Quando pedir ajuda
+202|Relatório para o cirurgião de voo
+203|Mensagem ao comandante
+204|Diário de bem-estar
+205|Perguntas para o médico
+206|Briefing da tripulação
+207|Quem primeiro
+208|Dinâmica de grupo
+209|Redistribuição da carga de trabalho
+210|Coesão da tripulação
+211|Preparar uma conversa individual
+212|Resultados dos testes da tripulação
+213|Lista de riscos da missão
+214|Mensagem à tripulação
+215|Relatório para o controle em solo
+216|Prompts prontos ({0})
+217|Funciona em qualquer navegador. Escolha um prompt e ele é preenchido com os dados atuais. Copie-o para qualquer chat de IA ou abra Claude, ChatGPT ou Gemini com um clique (o prompt é copiado automaticamente).
+218|Copiar prompt
+219|Perguntar aqui
+220|Prompt copiado. Cole-o em um chat de IA.
+221|Texto selecionado: pressione Ctrl+C.
+222|Aqui a IA só está disponível dentro do Claude. Copie o prompt e cole-o em qualquer chat de IA.
+223|ms
+224|Conflito de sinais
+225|Teste de Stroop orbital
+226|flexibilidade cognitiva · tolerância ao estresse
+227|Radar periférico
+228|Interceptação e controle de impulsos
+229|fadiga do SNC · vigilância · inibição
+230|Circuito de suporte à vida
+231|Recuperação da rota de energia
+232|memória de trabalho · raciocínio espacial
+233|Simulador psicofisiológico da tripulação
+234|Três testes curtos no espírito da bateria WinSCAT da NASA. Os resultados podem ser gravados no prontuário: a linha de base pessoal é a média dos três primeiros registros e, depois, o sistema acompanha qualquer mudança. Os testes não substituem uma avaliação clínica.
+235|sem registros
+236|Prontuário: análise dos testes
+237|Uma seta e uma palavra aparecem em uma cor. Responda «esquerda» ou «direita» conforme a REGRA atual: a seta, a palavra ou a cor (azul é esquerda, âmbar é direita). A regra muda a cada 10 segundos. Nos últimos 15 segundos há ruído de comunicação. Teclas ← → ou A / D.
+238|Micrometeoritos (losangos laranja) voam em direção à estação no centro: toque neles para interceptá-los. Nunca toque nos seus próprios satélites (azuis). O ritmo é irregular, de uma calmaria sonolenta a uma tempestade.
+239|Memorize a rota de energia na grade. Depois a grade gira 90°: refaça a rota tocando as células em ordem a partir da entrada (anel amarelo). Três circuitos: 4×4, 5×5 e 6×6, 25 segundos cada.
+240|Teste
+241|Duração
+242|Mede
+243|Iniciar
+244|Voltar
+245|seta
+246|palavra
+247|cor
+248|ESQUERDA
+249|DIREITA
+250|Conflito de sinais
+251|azul = esquerda
+252|âmbar = direita
+253|Regra
+254|ruído de comunicação
+255|Precisão
+256|Tempo de reação mediano
+257|Custo de interferência
+258|Custo de troca
+259|Precisão com ruído
+260|Omissões
+261|calmaria
+262|constante
+263|tempestade
+264|Radar periférico
+265|meteorito: interceptar
+266|satélite próprio: não tocar
+267|ritmo
+268|Interceptados
+269|Variabilidade da reação
+270|Toques indevidos
+271|Controle de impulsos
+272|Lapsos de vigilância
+273|Circuito {0} de 3 · {1}×{1}
+274|Memorize a rota
+275|A grade gira 90° no sentido horário
+276|A grade gira 90° no sentido anti-horário
+277|Refaça a rota a partir da entrada
+278|Tempo esgotado
+279|Circuito restabelecido
+280|Três erros: circuito não restabelecido
+281|Células corretas
+282|Circuitos restabelecidos
+283|Erros
+284|Tempo por célula
+285|Sem respostas para o gráfico.
+286|Gráfico do tempo de reação
+287|erro
+288|mediana
+289|Os pontos são respostas (vermelho: erros, ×: omissões). Traços verticais: mudança de regra ou início da tempestade. Sombreado: fase de ruído ou de calmaria.
+290|Flexibilidade cognitiva: {0}% de precisão, reação mediana de {1} ms, {2} omissões.
+291|A precisão está próxima do acaso: provavelmente a regra não foi mantida ou as respostas foram aleatórias. Os valores de interferência e troca desta rodada não são confiáveis.
+292|O conflito seta-palavra-cor acrescenta {0} ms por resposta: a interferência é {1}.
+293|baixa
+294|moderada
+295|alta
+296|Após uma mudança de regra, as primeiras respostas ficam {0} ms mais lentas: o custo de troca é {1}.
+297|Com ruído de comunicação a precisão cai de {0}% para {1}%: a tolerância ao estresse sob carga está reduzida.
+298|Com ruído de comunicação a precisão é de {1}% contra {0}% sem ruído: a tolerância se mantém.
+299|{0}% dos micrometeoritos interceptados, reação mediana de {1} ms, variabilidade ±{2} ms.
+300|Controle de impulsos preservado: nenhum toque nos satélites próprios.
+301|Toques indevidos nos satélites próprios: {0} ({1}% de contenção). {2}
+302|Isso sugere inibição enfraquecida.
+303|Erros isolados são aceitáveis.
+304|Lapsos de vigilância nas fases de calmaria: {0}.
+305|Junto com a alta variabilidade de reação, isso lembra fadiga do SNC.
+306|A atenção cai sob carga monótona.
+307|A vigilância se mantém nas fases monótonas.
+308|{0}% interceptados na fase de tempestade.
+309|Memória de trabalho: {0}% das células refeitas corretamente, {1} de 3 circuitos restabelecidos.
+310|Após a rotação de 90°: {0} erros, em média {1} ms por célula.
+311|A transformação espacial é feita com segurança.
+312|A transformação espacial exige esforço.
+313|A transformação espacial está nitidamente prejudicada.
+314|Em relação à linha de base pessoal ({0}), a pontuação atual está {1}.
+315|não mais baixa
+316|{0}% mais baixa
+317|A linha de base pessoal ainda está se formando: são necessários três registros.
+318|Sem sinais de sobrecarga cognitiva. Continue os testes programados.
+319|Há uma queda moderada. Repita o teste após descansar e verifique o sono e a carga de trabalho.
+320|Queda acentuada. Avise o médico da tripulação e reduza a carga nas próximas horas.
+321|Baseado em uma única rodada com referências aproximadas; não é um diagnóstico.
+322|A IA não respondeu: a conclusão do motor ASTRA integrado é exibida.
+323|concluído
+324|linha de base {0}, variação {1}%
+325|linha de base em formação: {0} de 3 registros
+326|Tempo de reação, ms
+327|Conclusão médico-psicológica
+328|A IA está preparando uma conclusão detalhada…
+329|Gerado pelo motor ASTRA integrado. A conclusão da IA está disponível quando a página é aberta no Claude.
+330|Gravar no prontuário: {0}
+331|Repetir
+332|Voltar aos testes
+333|Salvo no perfil
+334|Há um desvio em relação à linha de base pessoal. Repita os testes amanhã e verifique o sono e a carga de trabalho.
+335|Desvios em vários testes. Recomenda-se uma avaliação adicional: contate o médico da tripulação.
+336|Prontuário · testes cognitivos
+337|Índice composto {0} de 100, testes com registros: {1} de 3.
+338|Ainda não há registros. Faça um teste e grave o resultado no prontuário.
+339|Registros
+340|Último
+341|Variação
+342|Melhor
+343|A linha de base é a média dos três primeiros registros de um teste. O último registro é comparado com ela: a partir de −10% «Atenção», a partir de −25% «Ação».
+344|Testes
+345|Índice
+346|Dados (JSON)
+347|Copiar dados
+348|Apagar dados
+349|Dados selecionados. Se não foram copiados, pressione Ctrl+C.
+350|Pressione de novo para apagar os registros
+354|IA da tripulação
+355|Visão geral
+356|Estatísticas
+357|Entrada
+358|Análise
+359|Mente
+360|IA
+361|Corpo
+362|Relatório
+363|Relatórios
+364|Todos
+365|Minimizar
+366|Ampliar
+367|Tema claro
+368|Tema escuro

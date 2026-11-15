@@ -1,0 +1,366 @@
+0|ISS
+1|ca. 0 s
+2|Mond
+3|ca. 1,3 s
+4|Mars-Transit
+5|4–24 Min.
+6|Puls
+7|bpm
+8|Blutdruck (systolisch)
+9|mmHg
+10|Temperatur
+11|Schlaf
+12|Std.
+13|Stimmung
+14|Müdigkeit
+15|Stress (Selbsteinschätzung)
+16|Normal
+17|Planmäßige Überwachung fortsetzen.
+18|Achtung
+19|Messungen wiederholen, Schlaf und Belastung prüfen und die planmäßige Untersuchung absolvieren.
+20|Handeln
+21|Selbstcheck-Protokoll durchführen und einen Bericht für das medizinische Team vorbereiten.
+22|Noch zu wenige Daten: Die persönliche Basis wird aus den ersten 7 Tagen gebildet.
+23|Keine nennenswerten Abweichungen von der persönlichen Basis. Planmäßige Überwachung fortsetzen.
+24|ggü. Basis
+25|Mehrere Werte haben sich gleichzeitig von der Basis entfernt: {0}. Das ist ein gemeinsames Bild, die Veränderungen können zusammenhängen. Korrelation beweist keine Ursache, und dies ist keine Diagnose.
+26|Abweichung: {0}. Für sich genommen bestätigt sie keine Erkrankung, verdient aber Aufmerksamkeit.
+27|Keine Verbindung zur Erde: Der Bericht wird lokal gespeichert und gesendet, sobald ein Kanal verfügbar ist.
+28|Kommunikationsverzögerung: {0}. Erste Maßnahmen nicht aufschieben; dem Bordprotokoll folgen.
+29|Wenn Sie sich schlechter fühlen (Brustschmerzen, Atemnot, Verwirrtheit), wenden Sie sich sofort an den Kommandanten oder den Bordarzt.
+30|Diagramm
+31|Tag
+32|Persönliche Basis endet hier
+33|Basis
+34|Bordsystem · Anmelden
+35|Wählen Sie ein<br>Besatzungsprofil
+36|Demo-Anmeldung ohne Passwort. Astronauten sehen ihr eigenes Cockpit, der Kommandant sieht die gesamte Crew. Alle Daten sind synthetisch.
+37|Astronaut
+38|Zugriffsebene · Kommando
+39|Kommandanten-Cockpit
+40|Gesamte Crew, Missionen und Crew-KI
+41|brauchen Aufmerksamkeit
+42|Öffnen
+43|Crew: {0}, Tag {1}
+44|Aufmerksamkeit nötig: {0} von {1}.
+45|Status
+46|Körperindex
+47|Psycheindex
+48|Die Indizes reichen von 0 bis 100: Je höher, desto näher an der persönlichen Basis.
+49|mSv
+50|Basiert auf simulierten Daten; keine medizinische Diagnose.
+51|Verläufe
+52|Das Band zeigt die persönliche Basis (Mittelwert ± Abweichung der ersten 7 Tage).
+53|Strahlenbelastung
+54|Etwa <b>{0} {2}</b> in {1} Tagen angesammelt (ca. {3} {2}/Tag). Prognose für 180 Tage: ca. {4} {2}.
+55|Richtwert: Der NASA-Grenzwert für die Karrierebelastung liegt in der Größenordnung von 600 mSv (NASA-STD-3001); bitte anhand der Originalquelle prüfen.
+56|Messwerte eingeben, Tag {0}
+57|Messung hinzufügen
+58|Messverlauf
+59|Tag
+60|Vergleich mit der persönlichen Basis
+61|Die Werte sind über die letzten 3 Tage gemittelt. Je länger der Balken, desto stärker die ungünstige Abweichung.
+62|Zusammenhänge
+63|Gleichzeitig verschoben: {0}. Das System zeigt ein Gesamtbild statt einzelner Alarme.
+64|Derzeit gibt es keine ausgeprägten Kombinationen von Abweichungen.
+65|Schlaf und Müdigkeit über alle Tage: r = {0}.
+66|Korrelation beweist keine Ursache.
+67|Warnung: {0}
+68|Psychischer Zustand
+69|(vor 3 Tagen: {0})
+70|Der Index kombiniert Schlaf, Stimmung, Müdigkeit und Stress im Vergleich zur persönlichen Basis.
+71|Messwerte
+72|Was zu tun ist
+73|Einen festen Schlafrhythmus halten und den Kontakt zu Crew und Familie pflegen.
+74|Erholung einplanen, mit der Psychologin oder dem Psychologen des Bodenteams sprechen und die Belastung senken. Wenn nach 2–3 Tagen keine Besserung eintritt, den Kommandanten informieren.
+75|Ausführliche KI-Analyse
+76|Die Regelmaschine legt die Status fest; die KI erstellt ein Bild der gesamten Crew und schlägt Prioritäten für den Kommandanten vor.
+77|Die Regelmaschine legt den Status fest; die KI erklärt das Gesamtbild: Körper, Psyche und ihr Zusammenhang. Das ist keine Diagnose.
+78|KI analysiert …
+79|KI-Analyse anfordern
+80|Von der KI aus synthetischen Daten erzeugt; keine Diagnose.
+81|Die KI ist verfügbar, wenn die Seite in Claude geöffnet wird. Status und Erklärungen oben stammen von der integrierten Regelmaschine.
+82|Die KI hat nicht geantwortet. Bitte später erneut versuchen.
+83|Herz-Kreislauf
+84|Atmung
+85|Schlaf und Psyche
+86|Thermoregulation
+87|Körpersysteme
+88|Körperschema mit Systemanzeigen
+89|Tippen Sie auf ein Organ, um sein System zu sehen.
+90|Zum Drehen ziehen. Das Herz schlägt im Takt des letzten Pulses. Die Organe funktionieren wie eine Ampel: Grün ist normal, Gelb Achtung, Rot Handeln. Leber, Magen und Nieren zeigen den Gesamtstatus.
+91|mSv/Tag
+92|Missions-Telemetrie
+93|Ziel-Schwerkraft
+94|Signallaufzeit
+95|in eine Richtung
+96|Strahlung
+97|Modellschätzung
+98|Entfernung zur Erde
+99|Mission wählen: Strahlung, Kommunikation und die Drift der Messwerte ändern sich. Ein Wechsel erzeugt einen neuen 14-Tage-Datensatz für die ganze Crew.
+100|Zustand der Crew
+101|Stabil
+102|Verschlechterung
+103|Nächsten Tag simulieren
+104|Neue Zufallswerte
+105|Verbindung wiederherstellen
+106|Verbindungsabbruch simulieren
+107|Demo-Tipp: Mars wählen, jemanden auf „Verschlechterung“ setzen und dann sein Cockpit im Reiter „Crew“ öffnen.
+108|ASTRA HEALTH, Bericht für das medizinische Team
+109|Astronaut: {0}. Mission: {1}, Tag {2}
+110|Verbindung: keine, autonomer Modus, Bericht wartet auf Übertragung
+111|Verbindung: Verzögerung {0}
+112|Gesamtstatus: {0}
+113|Körperindex: {0}/100. Psycheindex: {1}/100
+114|Kognitive Tests: {0}
+115|Abweichungen von der persönlichen Basis:
+116|- keine nennenswerten
+117|Erläuterung: {0}
+118|Empfehlungen: {0}
+119|Angesammelte Dosis: etwa {0} {1}
+120|Die Daten sind synthetisch; diese Einschätzung ist keine Diagnose.
+121|Bericht für das medizinische Team
+122|Bericht kopieren
+123|Text markiert. Falls er nicht automatisch kopiert wurde, Strg+C drücken.
+124|Bitte „{0}“ prüfen: zulässig ist ein Bereich von {1} bis {2}.
+125|Cockpit: {0}
+126|Missionsdosis
+127|Außerhalb der Basis
+128|von
+129|Statistik, {0} Tage
+130|Messwert
+131|Jetzt
+132|Basis
+133|Min
+134|Ø
+135|Max
+136|Crew
+137|Verlauf
+138|Fahren Sie über einen Diagrammpunkt, um den Wert zu sehen. „Crew“ ist der Crew-Durchschnitt des letzten Tages.
+139|Crew-Dynamik
+140|Fahren Sie über einen Punkt, um den Wert zu sehen. Einheiten: {0}.
+141|Schwerelosigkeit im Orbit
+142|s
+143|km
+144|Bahnhöhe
+145|Mondoberfläche
+146|mittlere Entfernung
+147|Marsoberfläche, im Transit ≈ 0 g
+148|Min.
+149|Mio. km
+150|abhängig von den Planetenpositionen
+151|Bordingenieur
+152|Pilot
+153|Missionsspezialist
+154|Bordarzt
+155|Mission
+156|Verzögerung
+157|Schwerkraft
+158|Dosis
+159|mSv/Tag
+160|Alle Werte sind synthetisch und keine medizinische Beurteilung. Die Status stammen aus einer transparenten Regelmaschine, die Messwerte mit der persönlichen Basis (die ersten 7 Tage) vergleicht und nach Kombinationen von Abweichungen sucht. Die KI erklärt nur das Ergebnis und stellt keine Diagnosen.
+161|Dies ist eine Demo: Die Anmeldung hat kein Passwort, die Daten bleiben im Browser. Echte Konten brauchen einen Server mit Identitätsprüfung und Schutz medizinischer Daten.
+162|Wissenschaftliche Grundlage: NASA Human Research Roadmap, HRP Evidence Reports, NASA-STD-3001 Bd. 1, NASA Human Spaceflight Risks. Schwellenwerte und Dosisraten sind Näherungen; bitte mit den Originalquellen abgleichen.
+163|Synthetische Daten
+164|Keine medizinische Beurteilung
+165|NASA-STD-3001-Standards
+166|So funktioniert es
+167|Schließen
+168|Gesundheitsüberwachung der Crew
+169|Autonomer Modus
+170|System online
+171|Crew-Kommandant
+172|Astronaut · {0}
+173|Abmelden
+174|Oberfläche wird übersetzt …
+175|Übersetzung nicht verfügbar, daher wird Englisch angezeigt. Öffnen Sie die Seite in Claude.
+176|Zusammenfassung in 60 Sekunden
+177|Vollständige Auswertung
+178|Was sich in 3 Tagen geändert hat
+179|Wichtigste Priorität heute
+180|48-Stunden-Plan
+181|In einfachen Worten erklärt
+182|Psychischer Zustand
+183|Stress und Überlastung
+184|Stimmung und Isolation
+185|Gespräch mit der Psychologin vorbereiten
+186|Beruhigende Übungen
+187|Motivation und Ziele
+188|Schlafanalyse
+189|3-Tage-Schlafroutine
+190|Schlaf und Müdigkeit
+191|Licht und Rhythmus
+192|Herz und Blutdruck
+193|Atmung und SpO₂
+194|Training und Erholung
+195|Ernährung und Flüssigkeit
+196|Testergebnisse
+197|Aufmerksamkeit und Gedächtnis
+198|Tests vs. Selbsteinschätzung
+199|Aufmerksamkeitstraining
+200|Strahlung und Funkverzögerung
+201|Wann man Hilfe holt
+202|Bericht für den Flugarzt
+203|Nachricht an den Kommandanten
+204|Wohlbefindens-Tagebuch
+205|Fragen an den Arzt
+206|Crew-Briefing
+207|Wer zuerst
+208|Gruppendynamik
+209|Arbeitslast umverteilen
+210|Crew-Zusammenhalt
+211|Einzelgespräch vorbereiten
+212|Crew-Testergebnisse
+213|Missions-Risikoliste
+214|Nachricht an die Crew
+215|Bericht für die Bodenkontrolle
+216|Fertige Prompts ({0})
+217|Funktioniert in jedem Browser. Wählen Sie einen Prompt, er übernimmt die aktuellen Daten. Kopieren Sie ihn in einen beliebigen KI-Chat oder öffnen Sie Claude, ChatGPT oder Gemini mit einem Klick (der Prompt wird automatisch kopiert).
+218|Prompt kopieren
+219|Hier fragen
+220|Prompt kopiert. Fügen Sie ihn in einen KI-Chat ein.
+221|Text markiert: Strg+C drücken.
+222|KI ist hier nur innerhalb von Claude verfügbar. Kopieren Sie den Prompt und fügen Sie ihn in einen beliebigen KI-Chat ein.
+223|ms
+224|Signalkonflikt
+225|Orbitaler Stroop-Test
+226|kognitive Flexibilität · Stressresistenz
+227|Peripheres Radar
+228|Abfangen und Impulskontrolle
+229|ZNS-Ermüdung · Wachsamkeit · Hemmung
+230|Lebenserhaltungskreis
+231|Wiederherstellung der Energieroute
+232|Arbeitsgedächtnis · räumliches Denken
+233|Psychophysiologischer Crew-Simulator
+234|Drei kurze Tests im Geiste der NASA-WinSCAT-Batterie. Die Ergebnisse lassen sich in die Krankenakte schreiben: Die persönliche Basis ist der Durchschnitt der ersten drei Einträge, danach verfolgt das System jede Verschiebung. Die Tests ersetzen keine klinische Beurteilung.
+235|keine Einträge
+236|Krankenakte: Testauswertung
+237|Ein Pfeil und ein Wort erscheinen in einer Farbe. Antworten Sie „links“ oder „rechts“ nach der aktuellen REGEL: Pfeil, Wort oder Farbe (Blau bedeutet links, Bernstein rechts). Die Regel wechselt alle 10 Sekunden. In den letzten 15 Sekunden gibt es Funkstörungen. Tasten ← → oder A / D.
+238|Mikrometeoriten (orange Rauten) fliegen auf die Station in der Mitte zu: Tippen Sie sie an, um sie abzufangen. Berühren Sie niemals Ihre eigenen Satelliten (blau). Das Tempo ist ungleichmäßig, von verschlafener Flaute bis Sturm.
+239|Merken Sie sich die Energieroute im Raster. Danach dreht sich das Raster um 90°: Bauen Sie die Route nach, indem Sie die Felder der Reihe nach vom Eingang (gelber Ring) antippen. Drei Kreise: 4×4, 5×5 und 6×6, je 25 Sekunden.
+240|Test
+241|Dauer
+242|Misst
+243|Start
+244|Zurück
+245|Pfeil
+246|Wort
+247|Farbe
+248|LINKS
+249|RECHTS
+250|Signalkonflikt
+251|Blau = links
+252|Bernstein = rechts
+253|Regel
+254|Funkstörung
+255|Genauigkeit
+256|Median-Reaktionszeit
+257|Interferenzkosten
+258|Wechselkosten
+259|Genauigkeit bei Störung
+260|Auslassungen
+261|Flaute
+262|gleichmäßig
+263|Sturm
+264|Peripheres Radar
+265|Meteorit: abfangen
+266|eigener Satellit: Finger weg
+267|Tempo
+268|Abgefangen
+269|Reaktionsstreuung
+270|Fehlberührungen
+271|Impulskontrolle
+272|Wachsamkeitslücken
+273|Kreis {0} von 3 · {1}×{1}
+274|Route merken
+275|Raster dreht sich um 90° im Uhrzeigersinn
+276|Raster dreht sich um 90° gegen den Uhrzeigersinn
+277|Route vom Eingang aus nachbauen
+278|Zeit abgelaufen
+279|Kreis wiederhergestellt
+280|Drei Fehler: Kreis nicht wiederhergestellt
+281|Richtige Felder
+282|Wiederhergestellte Kreise
+283|Fehler
+284|Zeit pro Feld
+285|Keine Antworten für das Diagramm.
+286|Diagramm der Reaktionszeit
+287|Fehler
+288|Median
+289|Punkte sind Antworten (rot: Fehler, ×: Auslassungen). Senkrechte Striche: Regelwechsel oder Beginn des Sturms. Schattierung: Störungs- oder Flautenphase.
+290|Kognitive Flexibilität: {0} % Genauigkeit, mediane Reaktion {1} ms, {2} Auslassungen.
+291|Die Genauigkeit liegt nahe am Zufall: Die Regel wurde vermutlich nicht gehalten oder die Antworten waren geraten. Interferenz- und Wechselwerte dieses Durchgangs sind nicht verlässlich.
+292|Der Konflikt aus Pfeil, Wort und Farbe kostet {0} ms pro Antwort: Die Interferenz ist {1}.
+293|gering
+294|mäßig
+295|hoch
+296|Nach einem Regelwechsel sind die ersten Antworten {0} ms langsamer: Die Wechselkosten sind {1}.
+297|Bei Funkstörung sinkt die Genauigkeit von {0} % auf {1} %: Die Stressresistenz unter Last ist verringert.
+298|Bei Funkstörung beträgt die Genauigkeit {1} % gegenüber {0} % ohne Störung: Die Belastbarkeit bleibt erhalten.
+299|{0} % der Mikrometeoriten abgefangen, mediane Reaktion {1} ms, Streuung ±{2} ms.
+300|Impulskontrolle intakt: keine Berührung eigener Satelliten.
+301|Fehlberührungen eigener Satelliten: {0} ({1} % Zurückhaltung). {2}
+302|Das deutet auf eine geschwächte Hemmung hin.
+303|Einzelne Fehler sind vertretbar.
+304|Wachsamkeitslücken in Flautenphasen: {0}.
+305|Zusammen mit der hohen Reaktionsstreuung erinnert das an ZNS-Ermüdung.
+306|Die Aufmerksamkeit sinkt bei monotoner Belastung.
+307|Die Wachsamkeit bleibt in monotonen Phasen erhalten.
+308|{0} % in der Sturmphase abgefangen.
+309|Arbeitsgedächtnis: {0} % der Felder richtig nachgebaut, {1} von 3 Kreisen wiederhergestellt.
+310|Nach der 90°-Drehung: {0} Fehler, im Durchschnitt {1} ms pro Feld.
+311|Die räumliche Transformation gelingt sicher.
+312|Die räumliche Transformation kostet Mühe.
+313|Die räumliche Transformation ist deutlich beeinträchtigt.
+314|Gegenüber der persönlichen Basis ({0}) ist das aktuelle Ergebnis {1}.
+315|nicht niedriger
+316|{0} % niedriger
+317|Die persönliche Basis bildet sich noch: Dafür sind drei Einträge nötig.
+318|Keine Anzeichen kognitiver Überlastung. Planmäßige Tests fortsetzen.
+319|Es gibt einen mäßigen Rückgang. Test nach Erholung wiederholen und Schlaf sowie Belastung prüfen.
+320|Ein deutlicher Rückgang. Bordarzt informieren und die Belastung in den nächsten Stunden senken.
+321|Beruht auf einem einzelnen Durchgang mit ungefähren Richtwerten; keine Diagnose.
+322|Die KI hat nicht geantwortet: Es wird das Ergebnis der integrierten ASTRA-Engine angezeigt.
+323|abgeschlossen
+324|Basis {0}, Verschiebung {1} %
+325|Basis im Aufbau: {0} von 3 Einträgen
+326|Reaktionszeit, ms
+327|Medizinisch-psychologische Beurteilung
+328|Die KI bereitet eine ausführliche Beurteilung vor …
+329|Von der integrierten ASTRA-Engine erstellt. Die KI-Beurteilung ist verfügbar, wenn die Seite in Claude geöffnet wird.
+330|In die Krankenakte schreiben: {0}
+331|Erneut durchführen
+332|Zurück zu den Tests
+333|Im Profil gespeichert
+334|Es gibt eine Abweichung von der persönlichen Basis. Tests morgen wiederholen und Schlaf sowie Belastung prüfen.
+335|Abweichungen in mehreren Tests. Eine zusätzliche Beurteilung wird empfohlen: Wenden Sie sich an den Bordarzt.
+336|Krankenakte · kognitive Tests
+337|Gesamtindex {0} von 100, Tests mit Einträgen: {1} von 3.
+338|Noch keine Einträge. Führen Sie einen Test durch und schreiben Sie das Ergebnis in die Krankenakte.
+339|Einträge
+340|Letzter
+341|Verschiebung
+342|Bester
+343|Die Basis ist der Durchschnitt der ersten drei Einträge eines Tests. Der letzte Eintrag wird damit verglichen: ab −10 % „Achtung“, ab −25 % „Handeln“.
+344|Tests
+345|Index
+346|Daten (JSON)
+347|Daten kopieren
+348|Daten löschen
+349|Daten markiert. Falls sie nicht kopiert wurden, Strg+C drücken.
+350|Zum Löschen der Einträge erneut drücken
+354|Crew-KI
+355|Übersicht
+356|Statistik
+357|Eingabe
+358|Analyse
+359|Psyche
+360|KI
+361|Körper
+362|Bericht
+363|Berichte
+364|Alle
+365|Minimieren
+366|Vergrößern
+367|Helles Design
+368|Dunkles Design
